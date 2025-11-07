@@ -1,7 +1,7 @@
 # TryHackMe "Wonderland" - Live Exploitation Walkthrough
 
-**Target IP:** 10.10.158.4
-**Date:** November 7, 2025
+**Target IP:** 10.10.158.4  
+**Date:** November 7, 2025  
 **Difficulty:** Medium
 
 ---
@@ -685,8 +685,8 @@ Capabilities bypass normal permission checks:
 
 ---
 
-**Challenge Complete!** ✅
-**All Flags Captured!** 🏁
+**Challenge Complete!** ✅  
+**All Flags Captured!** 🏁  
 **System Compromised!** 💀
 
 **Wonderland Theme:** Everything is backwards - just like Alice through the looking glass!
