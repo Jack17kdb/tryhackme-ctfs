@@ -191,7 +191,7 @@ whoami  # root
 cat /root/root.txt
 ```
 
-**User Flag** flag{academic_dishonesty}
+**User Flag** flag{academic_dishonesty}  
 **Root Flag** flag{im_purely_functional}
 
 ---
